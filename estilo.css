@@ -1,0 +1,304 @@
+.fondo{
+	width: 100%
+	height:100%;
+	top: 0%;
+	left: 0%;
+	position: fixed;
+	z-index:-1;
+}
+
+.cabecera{
+
+		position: absolute;
+	width: 100%;
+	height: 23%;
+	left: 0%;
+	top: 0%;
+		background:rgba(46, 64, 83 ) ;
+
+}
+.titulo{
+
+		position: absolute;
+	top: -5%;
+	left: 17%;
+	color: rgba(208, 211, 212 );
+}
+.boton{
+
+			position: absolute;
+	width: 14%;
+	height: 7%;
+	left: 5%;
+	top: 30%;
+	border-radius: 20px;
+	color: rgba(208, 211, 212 );
+		background:rgba(46, 64, 83 ) ;
+
+}
+.boton:hover{
+
+			position: absolute;
+	width: 14%;
+	height: 7%;
+	left: 5%;
+	top: 30%;
+	border-radius: 20px;
+	color: rgba(208, 211, 212 );
+		background:rgba(40, 116, 166 ) ;
+}
+
+.boton2{
+
+			position: absolute;
+	width: 14%;
+	height: 7%;
+	left: 20%;
+	top: 30%;
+	border-radius: 20px;
+	color: rgba(208, 211, 212 );
+		background:rgba(46, 64, 83 ) ;
+}
+.boton2:hover{
+
+			position: absolute;
+	width: 14%;
+	height: 7%;
+	left: 20%;
+	top: 30%;
+	border-radius: 20px;
+	color: rgba(208, 211, 212 );
+		background:rgba(40, 116, 166) ;
+}
+.boton3{
+
+			position: absolute;
+	width: 14%;
+	height: 7%;
+	left: 35%;
+	top: 30%;
+	border-radius: 20px;
+	color: rgba(208, 211, 212 );
+		background:rgba(46, 64, 83 ) ;
+}
+.boton3:hover{
+
+			position: absolute;
+	width: 14%;
+	height: 7%;
+	left: 35%;
+	top: 30%;
+	border-radius: 20px;
+	color: rgba(208, 211, 212 );
+		background:rgba(40, 116, 166) ;
+}
+.boton4{
+
+			position: absolute;
+	width: 14%;
+	height: 7%;
+	left: 50%;
+	top: 30%;
+	border-radius: 20px;
+	color: rgba(208, 211, 212 );
+		background:rgba(46, 64, 83 ) ;
+}
+.boton4:hover{
+
+			position: absolute;
+	width: 14%;
+	height: 7%;
+	left: 50%;
+	top: 30%;
+	border-radius: 20px;
+	color: rgba(208, 211, 212 );
+		background:rgba(40, 116, 166) ;
+}
+.boton5{
+
+			position: absolute;
+	width: 14%;
+	height: 7%;
+	left: 65%;
+	top: 30%;
+	border-radius: 20px;
+	color: rgba(208, 211, 212 );
+		background:rgba(46, 64, 83 ) ;
+}
+.boton5:hover{
+
+			position: absolute;
+	width: 14%;
+	height: 7%;
+	left: 65%;
+	top: 30%;
+	border-radius: 20px;
+	color: rgba(208, 211, 212 );
+		background:rgba(40, 116, 166) ;
+}
+.boton6{
+
+			position: absolute;
+	width: 14%;
+	height: 7%;
+	left: 80%;
+	top: 30%;
+	border-radius: 20px;
+	color: rgba(208, 211, 212 );
+		background:rgba(46, 64, 83 ) ;
+}
+.boton6:hover{
+		
+			position: absolute;
+	width: 14%;
+	height: 7%;
+	left: 80%;
+	top: 30%;
+	border-radius: 20px;
+	color: rgba(208, 211, 212 );
+		background:rgba(40, 116, 166 ) ;
+}
+
+.introduccion{
+			position: absolute;
+	width: 80%;
+	height: 650%;
+	left: 10%;
+	top: 42%;
+opacity: 0.6;
+border-radius: 15px;
+background: rgba(46, 64, 83 ) ;
+		
+}
+.tintro{
+		position: absolute;
+		left: 35%;
+	top: 38%;
+	opacity: 1;
+		color:rgba(208, 211, 212 ) ;
+}
+.textointro{
+			position: absolute;
+				width: 76%;
+		left: 12%;
+	top: 55%;
+	opacity: 1;
+		color:rgba(208, 211, 212 ) ;
+}
+.im1{
+	position: absolute;
+	width: 76%;
+	height: 53%;
+	left: 12%;
+	top: 95%;
+}
+.tsuma{
+		position: absolute;
+		left: 43%;
+	top: 145%;
+	opacity: 1;
+		color:rgba(208, 211, 212 ) ;
+}
+.textosuma{
+			position: absolute;
+				width: 77%;
+		left: 12%;
+	top: 160%;
+	opacity: 1;
+		color:rgba(208, 211, 212 ) ;
+}
+.im2{
+	position: absolute;
+	width: 76%;
+	height: 53%;
+	left: 12%;
+	top: 186%;
+}
+.tpromedio{
+		position: absolute;
+		left: 39%;
+	top: 236%;
+	opacity: 1;
+		color:rgba(208, 211, 212 ) ;
+}
+.textopromedio{
+			position: absolute;
+				width: 77%;
+		left: 12%;
+	top: 250%;
+	opacity: 1;
+		color:rgba(208, 211, 212 ) ;
+}
+.im3{
+	position: absolute;
+	width: 76%;
+	height: 53%;
+	left: 12%;
+	top: 300%;
+}
+.tindice{
+		position: absolute;
+		left: 42%;
+	top: 350%;
+	opacity: 1;
+		color:rgba(208, 211, 212 ) ;
+}
+.textoindice{
+			position: absolute;
+				width: 77%;
+		left: 12%;
+	top: 364%;
+	opacity: 1;
+		color:rgba(208, 211, 212 ) ;
+}
+.im4{
+	position: absolute;
+	width: 76%;
+	height: 53%;
+	left: 12%;
+	top: 400%;
+}
+.tcontar{
+		position: absolute;
+		left: 42%;
+	top: 450%;
+	opacity: 1;
+		color:rgba(208, 211, 212 ) ;
+}
+.textocontar{
+			position: absolute;
+				width: 77%;
+		left: 12%;
+	top: 464%;
+	opacity: 1;
+		color:rgba(208, 211, 212 ) ;
+}
+.im5{
+	position: absolute;
+	width: 76%;
+	height: 53%;
+	left: 12%;
+	top: 500%;
+}
+.tbuscar{
+		position: absolute;
+		left: 42%;
+	top: 550%;
+	opacity: 1;
+		color:rgba(208, 211, 212 ) ;
+}
+.textobuscar{
+			position: absolute;
+				width: 77%;
+		left: 12%;
+	top: 564%;
+	opacity: 1;
+		color:rgba(208, 211, 212 ) ;
+}
+.im6{
+	position: absolute;
+	width: 76%;
+	height: 55%;
+	left: 12%;
+	top: 605%;
+}
